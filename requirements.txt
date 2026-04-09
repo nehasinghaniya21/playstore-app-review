@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+pandas>=2.2.0
+google-play-scraper>=1.2.4
+textblob>=0.17.1
+transformers>=4.40.0
+matplotlib>=3.7.2
+langdetect>=1.0.9
